@@ -62,7 +62,7 @@ This application demonstrates a complete Web3 authentication and message signing
 ### 1. Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/davik20/decentralized-masters-project
 cd decentralized-masters-project
 ```
 
